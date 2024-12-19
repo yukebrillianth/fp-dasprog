@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.dbclient-js": "javascript",
+    ".blade.php": "html",
+    "unistd.h": "c",
+    "ncurses.h": "c",
+    "main.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "enabled"
+}
