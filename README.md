@@ -1,6 +1,6 @@
 # Final Project of Basic Programming Course
 
-This project is the final assignment for the Basic Programming course, supervised by Dr. `Reza Fuad Rachmadi, S.T., M.T., Ph.D`. The task involves creating a simple game using the C programming language and the ncurses library.
+This project is the final assignment for the Basic Programming course, supervised by `Reza Fuad Rachmadi, S.T., M.T., Ph.D`. The task involves creating a simple game using the C programming language and the ncurses library.
 
 ## Catch the Balls Game
 
@@ -14,12 +14,18 @@ This project is the final assignment for the Basic Programming course, supervise
 
 ## Table of Contents
 
+1. [Demo Video](#demo-video)  
 1. [How to Use](#how-to-use)  
    1.1 [Installation](#1-installation)  
    1.2 [Usage](#2-usage)  
    1.3 [Reset Highest Score](#3-reset-highest-score)
 
 ---
+
+### Demo Video
+https://github.com/user-attachments/assets/30608b1d-d55c-4b32-a528-f058e7d47386
+
+
 
 ## How to Use
 
